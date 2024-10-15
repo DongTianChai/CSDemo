@@ -13,7 +13,7 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Server {
+public class BusinessServer {
     private static final String DB_URL = "jdbc:mysql://localhost:3306/contacts_db";
     private static final String USER = "root";
     private static final String PASS = "123456";
